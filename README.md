@@ -1,2 +1,4 @@
 # FranceLocalisation
-Grails project to initiate French Localization without map
+Grails-Groovy project to initiate French Localization without map
+
+
